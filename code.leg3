@@ -1,10 +1,33 @@
 LEGAL V05
 2
-4
+2
 
 <P>
 Por favor
+
+# paso 1: ele seguir o caminho curto
+
+	# voltar para o ponto 0
+		# como ele vai volar?
+
+# passo 2: ir até o meio e seguir a outro caminho
+	# ele vai subir uma rampa
+
+
+# passo 3: seguir até o obstáculo
+	# ele vai girar e vai continhuar o caminho.
+
+
+# passo 4: ele vai seguir uma area e girar para continuar o caminho.
+
+# passo 5: ele vai parar no vermelho.
+
+
+
 	Siga faixa escura sempre
+	
+	# como ele vai dar ré?
+	
 	Siga faixa escura até obstáculo
 	Giro direita 2 s
 	Ré 1 s
