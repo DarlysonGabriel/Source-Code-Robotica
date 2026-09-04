@@ -35,7 +35,6 @@ Arquivos
 Arquivo| Função
 ```
 "code.leg3"| Código principal do robô
-"code.sim3"| Arquivo utilizado para simulação e testes
 ```
 A linguagem .leg3 é desenvolvida pela empresa Legal. Esta linguagem é própria para um tipo de robô(módulo) responsável pela execução de movimentos.
 
@@ -64,7 +63,6 @@ Esse processo permite aprimorar gradualmente o comportamento do robô antes da c
 ```
 Sorce-Code-Robotica/
 ├── code.leg3
-├── code.sim3
 ├── LICENSE
 └── README.md
 ```
