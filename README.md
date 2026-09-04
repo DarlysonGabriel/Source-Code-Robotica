@@ -32,10 +32,10 @@ O código deste repositório contém a programação utilizada no desenvolviment
 
 Arquivos
 
-Arquivo| Função
-```
-"code.leg3"| Código principal do robô
-```
+| Arquivo | Função |
+| ----- | -------- |
+| code.leg3 | Código principal do robô |
+
 A linguagem .leg3 é desenvolvida pela empresa Legal. Esta linguagem é própria para um tipo de robô(módulo) responsável pela execução de movimentos.
 
 A sintaxe é em português brasileiro. Ou seja, é bem fácil e intuitiva para se mexer.
